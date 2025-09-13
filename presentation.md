@@ -31,8 +31,8 @@ nachtpfoetchen
 <!-- class: default -->
 # me
 - played way too much karaoke while i should make slides
-- enby liking doing karaoke thingys
-- pronouns?? existish ahhhh halp
+- enby das irgendwie gerne Karaoke Dinge tut
+- Pronomen??? existieren vielleicht, idk, halp
 - fedi? nachtpfoetchen@donotsta.re
 # ow
 Slides: https://github.com/Nachtpfoetchen/2025-MRMCD-Karaoke
