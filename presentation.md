@@ -36,6 +36,7 @@ nachtpfoetchen
 - fedi? nachtpfoetchen@donotsta.re
 # ow
 Slides: https://github.com/Nachtpfoetchen/2025-MRMCD-Karaoke
+Markdown für Marp
 
 ---
 <!-- class: lead -->
@@ -390,5 +391,4 @@ Gameplay usdx 0.8.2
 
 # Bild-Quellen
 
-[4] https://en.wikipedia.org/wiki/File:SingStar_screenshot.JPG#/media/File:SingStar_screenshot.JPG
-[6] https://www.reddit.com/r/crt/comments/mbnngq/found_this_crt_karaoke_system_at_a_goodwill_didnt/#lightbox
+später auf github
