@@ -13,6 +13,11 @@ style: |
 
     /* Center align content vertically */
     align-items: top;
+  
+  }
+  img[alt~="center"] {
+  display: block;
+  margin: 0 auto;
   }
 ---
 <!-- class: lead -->
@@ -30,6 +35,7 @@ nachtpfoetchen
 - pronouns?? existish ahhhh halp
 - fedi? nachtpfoetchen@donotsta.re
 # ow
+Slides: https://github.com/Nachtpfoetchen/2025-MRMCD-Karaoke
 
 ---
 <!-- class: lead -->
@@ -68,6 +74,7 @@ Singstar
 - Tonhöhe
 - Mikrofon
 - Backing Vocals
+- Songlisten-Management
 </div>
 </div>
 
@@ -136,17 +143,25 @@ Laserdisk Karaoke Setup von Claudiu Dobondi youtube
 - Limitierung auf Bitmaps
 - Hintergrund idr Einfarbig
 - Viele Lieder auf einer Disc
+- Bis heute kommerzieller Vertrieb
 
 </div>
 </div>
 
 ---
-<style>
-img[alt~="center"] {
-  display: block;
-  margin: 0 auto;
-}
-</style>
+
+<div class="columns">
+
+![height:400px center](Bilder/mr_entertainer_2024.jpg)
+Mr. Entertainer CD+G Release
+
+![height:400px center](Bilder/zoom_karaoke_2024_usb.jpg)
+Zoom Karaoke USB Release
+
+
+
+---
+
 
 ![height:640px center](https://external-preview.redd.it/OFpQaevzXLbM3gm0EyYpWbbN6cHBoQuW58QFwxrmtoE.jpg?width=1080&crop=smart&auto=webp&s=2f95a0d2b30a730b3d3b0a8a631d9d0bb29fe9f8)
 
@@ -165,6 +180,7 @@ img[alt~="center"] {
 
 - Umsetzung des Subcodes der CD+G als eigene binär Datei die parallel zum Playback abgespielt wird.
 - Durch emule, p2p filesharing erstmals umfassende Kataloge
+- Bis heute Kommerzieller Vertrieb
 </div>
 </div>
 
@@ -210,6 +226,11 @@ Dreamcast Karaoke Erweiterung
 
 ![width:400 center](Bilder/famicom-karaoke-studio-1588187170-86.webp)
 famicon Erweiterung
+
+---
+
+![width:800 center](https://www.lemon64.com/assets/images/games/screens/international_karaoke_plus/international_karaoke_plus_03.png)
+C64 International Karaoke+
 
 ---
  
@@ -346,19 +367,21 @@ Gameplay usdx 0.8.2
 
 ---
 
-# Rechte
+# Hardware
 
 <div class="columns">
 <div>
 
-![width:500px](Bilder/rechte.png)
-
-
+![height:500px](Bilder/Bildschirmfoto_20250913_112654.png)
 
 </div>
+<div>
 
-- Label veröffentlicht Song
-- Karaoke Label bezahlt Coverband
+- Mikrofon bei Bedarf
+- Mixer
+- Spzielle Karaoke Hardware / Software kann ggf Tonhöhe und Tempo variieren
+- Bildschirm
+- Boxen
 
 </div>
 </div>
